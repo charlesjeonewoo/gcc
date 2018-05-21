@@ -1,1 +1,6 @@
+# directory
+*/out/*
+
+# file
 *.o
+*.a
